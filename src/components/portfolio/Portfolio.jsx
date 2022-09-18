@@ -21,8 +21,10 @@ const Portfolio = () => {
            <img src={IMG1} alt='' />
           </div>
           <h3>This is a portfolio item title</h3>
+           <div className='portfolio__item-cta'>
           <a href='https://github.com' className='btn'></a>
           <a href='https//dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
         </article>
 
          <article className='portfolio__item'>
@@ -30,8 +32,10 @@ const Portfolio = () => {
            <img src={IMG2} alt='' />
           </div>
           <h3>This is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
           <a href='https://github.com' className='btn'></a>
           <a href='https//dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+           </div>
         </article> 
 
          <article className='portfolio__item'>
@@ -39,8 +43,10 @@ const Portfolio = () => {
            <img src={IMG3} alt='' />
          </div>
           <h3>This is a portfolio item title</h3>
+           <div className='portfolio__item-cta'>
           <a href='https://github.com' className='btn'></a>
           <a href='https//dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
         </article>
 
          <article className='portfolio__item'>
@@ -48,8 +54,10 @@ const Portfolio = () => {
            <img src={IMG4} alt='' />
          </div>
           <h3>This is a portfolio item title</h3>
+           <div className='portfolio__item-cta'>
           <a href='https://github.com' className='btn'></a>
           <a href='https//dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
         </article>
 
          <article className='portfolio__item'>
@@ -57,8 +65,10 @@ const Portfolio = () => {
             <img src={IMG5} alt='' />
           </div>
           <h3>This is a portfolio item title</h3>
+           <div className='portfolio__item-cta'>
           <a href='https://github.com' className='btn'></a>
           <a href='https//dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
         </article>
 
          <article className='portfolio__item'>
@@ -66,8 +76,10 @@ const Portfolio = () => {
            <img src={IMG6} alt='' />
          </div>
           <h3>This is a portfolio item title</h3>
+           <div className='portfolio__item-cta'>
           <a href='https://github.com' className='btn'></a>
           <a href='https//dribbble.com/Alien_pixels' className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
         </article>
 
       </div>
