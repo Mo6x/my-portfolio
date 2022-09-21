@@ -14,19 +14,19 @@ const Contact = () => {
       <div className='container contact__container'>
         <div className='contact__options'>
           <article className='contact__option'>
-            <HiOutlineMailOpen/>
+            <HiOutlineMailOpen className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>christmoses1999@gmail.com</h5>
             <a href='mailto:christmoses1999@gmail.com' target="_blank">Send a message</a>           
           </article>
           <article className='contact__option'>
-            <IoLogoLinkedin/>
+            <IoLogoLinkedin className='contact__option-icon'/>
             <h4>LinkedIn</h4>
             <h5>Christopher moses</h5>
             <a href='https://www.linkedin.com/in/christopher-moses-793488232/' target="_blank">Send a message</a>           
         </article>
         <article className='contact__option'>
-            <FaWhatsapp/>
+            <FaWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+2348058960314</h5>
             <a href='https://api.whatsapp.com/send?phone+2348058960314' target="_blank">Send a message</a>           
