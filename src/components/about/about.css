@@ -71,7 +71,7 @@
 
  /* ============ MEDIA QUERIES (MEDIUM DEVICES) ============== */
  @media screen and  (max-width: 1024px) {
-     .about__card:hover{
+     .about__container{
         grid-template-columns: 1fr;
         grid: 0;
      }
@@ -103,6 +103,6 @@
     }
 
     .about__content p{
-   
+      margin: 1.5rem;
     }
 }

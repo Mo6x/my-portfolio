@@ -3,10 +3,10 @@ import "./about.css";
 import ME from '../../assets/me.png';
 import { FaAward } from 'react-icons/fa';
 import { FiUsers } from 'react-icons/fi';
-import { VscFolderActive } from 'react-icons/vs';
+ //import { VscFolderActive } from 'react-icons/vs';
 
 
-const About = () => {
+ const About = () => {
   return (
     <section id='about'>
       <h5>Get To Know</h5>
@@ -15,7 +15,7 @@ const About = () => {
       <div className='container about__container'>
         <div className='about__me'>
         <div className='about__me-image'>
-           <img src='{ME}' alt='About Image'/>
+           <img src={ME} alt='About Image'/>
         </div>
       </div>
 
@@ -34,9 +34,9 @@ const About = () => {
             </article>
 
             <article className='about__card'>
-              <VscFolderActive className='about__icon'/>
+              {/* <VscFolderActive className='about__icon'/> */}
               <h5>Projects</h5>
-              <small>5+ Completed</small>
+              <small>6+ Completed</small>
             </article>
           </div>
           
@@ -53,6 +53,6 @@ const About = () => {
   )
 }
 
-export default About
+ export default About
 
 
