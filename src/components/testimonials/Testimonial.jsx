@@ -54,7 +54,6 @@ const Testimonial = () => {
       slidesPerView={1}
       pagination={{ clickable: true }}
       >
-          {/* // install Swiper modules */}
      
         {
           data.map(({ avatar, name, review }, index) => {

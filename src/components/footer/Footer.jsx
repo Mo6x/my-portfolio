@@ -1,7 +1,7 @@
 import React from 'react';
 import "./footer.css";
 import { FaLinkedin } from 'react-icons/fa';
-// import { IoLogoTwitter } from 'react-icons/lo';
+import { IoLogoTwitter } from 'react-icons/io';
 
 
 const Footer = () => {
@@ -9,7 +9,7 @@ const Footer = () => {
     <footer>
       <a href='#' className='footer__logo'>Christ-Moses</a>
       
-      <ul className='permalink'>
+      <ul className='Permalink'>
         <li><a href='#'>Home</a></li>
         <li><a href='#about'>About</a></li>
         <li><a href='#experience'>Experience</a></li>
@@ -21,11 +21,11 @@ const Footer = () => {
 
       <div className='footer__socials'>
         <a href='https://twitter.com'>< FaLinkedin/></a>
-         {/* <a href='https://linkedIn.com'><IoLogoTwitter/></a> */}
+         <a href='https://linkedIn.com'><IoLogoTwitter/></a>
       </div>
 
       <div className='footer__copyright'>
-          <small>&created: Build by Christopher Moses</small>
+          <small>&Build by Christopher Moses</small>
       </div>
     </footer>
   )
