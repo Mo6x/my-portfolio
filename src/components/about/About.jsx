@@ -2,8 +2,9 @@ import React from 'react';
 import "./about.css";
 import ME from '../../assets/me.png';
 import { FaAward } from 'react-icons/fa';
-import { FiUsers } from 'react-icons/fi';
- //import { VscFolderActive } from 'react-icons/vs';
+import { FaUserFriends } from 'react-icons/fa';
+import { BsFolder2 } from 'react-icons/bs';
+
 
 
  const About = () => {
@@ -28,13 +29,13 @@ import { FiUsers } from 'react-icons/fi';
             </article>
 
             <article className='about__card'>
-              <FiUsers className='about__icon'/>
+              <FaUserFriends className='about__icon'/>
               <h5>Clients</h5>
               <small>10+ Decagon</small>
             </article>
 
             <article className='about__card'>
-              {/* <VscFolderActive className='about__icon'/> */}
+              <BsFolder2 className='about__icon'/>
               <h5>Projects</h5>
               <small>6+ Completed</small>
             </article>
