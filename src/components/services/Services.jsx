@@ -48,56 +48,52 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>Experience with various frameworks like ReactJS, Typescript and Node.JS.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>Extensive experience and knowledge of data structures, database modelling, system architecture and concepts.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>Experience with the design and implementation of RESTful web services and APIs. </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>Experience with relational & non-relational databases such as PostgreSQL, SQLite and NoSQL databases such as MongoDB</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>Experience with Domain-Driven Design (DDD), and Test Driven Development (TDD),  using GIT Version Controls.</p>
             </li>
           </ul>
         </article>
         {/* WEB DEVELOPMENT */}
          <article className='service'>
           <div className='service__head'>
-            <h3>Agile Skill</h3>
+            <h3>Agile Skills</h3>
           </div>
                
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>Collaboration with other people's as a  part of team.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>I am a very strong communicator among other peoples</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>Problem solving, finding solutions to difficult or complex issues.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>Adaptability, i am able to adjust to new conditions. </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+              <p>Critical thinking, contribute to solving problems more effectively.</p>
             </li>
           </ul>
         </article>
