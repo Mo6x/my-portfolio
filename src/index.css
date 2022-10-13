@@ -44,8 +44,8 @@ line-height: 1.7;
 
 /* ========= GENEARL STYLES ========= */
 .container{
-    width: var(--container-width-lg);
-    margin: 0 auto;
+    /* width: var(--container-width-lg); */
+    /* margin: 0 auto; */
 }
 
 h1,
@@ -61,7 +61,10 @@ h1{
 }
 
 section{
-    margin: 8rem;
+    /* margin: 8rem; */
+    margin:8%;  
+    /* margin: 0 auto; */
+
 }
 
 section > h2,
@@ -117,19 +120,19 @@ img{
 }
 
 /* ========== MEDIA QUERIES (MEDIUM DEVICES) ========== */
-@media screen and (max-width: 1024px){
+  @media screen and (max-width: 1024px){
  .container{
-    width: var(--container-width-md);
+    /* width: var(--container-width-md); */
  }
 
  section {
-    margin-top: 6rem;
+    /* margin-top: 6rem; */
  }
 }
     
 
 /* ========== MEDIA QUERIES (SMALL  DEVICES) ========== */
-@media screen and (max-width: 600px){
+  /* @media screen and (max-width: 600px){
  .container{
     width: var(--container-width-sm);
  }
@@ -137,5 +140,5 @@ img{
  section > h2{
     margin-bottom : 2rem;
  }
-}
+} */
     

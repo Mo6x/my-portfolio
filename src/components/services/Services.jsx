@@ -77,11 +77,11 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Collaboration with other people's as a  part of team.</p>
+              <p>Collaboration among other peoples.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>I am a very strong communicator among other peoples</p>
+              <p>A very strong communicator,  able to convey or exchange information, and ideas.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -89,11 +89,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Adaptability, i am able to adjust to new conditions. </p>
+              <p>Adaptability, adjust to new conditions. </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Critical thinking, contribute to solving problems more effectively.</p>
+              <p>Critical thinking, contribute more effectively.</p>
             </li>
           </ul>
         </article>

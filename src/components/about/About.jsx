@@ -25,7 +25,7 @@ import { BsFolder2 } from 'react-icons/bs';
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>3+ Years Working</small>
             </article>
 
             <article className='about__card'>
@@ -42,7 +42,8 @@ import { BsFolder2 } from 'react-icons/bs';
           </div>
           
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis officia, blanditiis aspernatur amet magnam natus molestiae vitae qui voluptatum ut libero facere, dolores temporibus saepe assumenda? Fugiat, recusandae officiis!
+            An experienced FullStack and Performance Driven Engineer with 1+ years  of working experience developing industry-ready applications.
+            Strong knowledge of TypeScript and JavaScript with vast experience in building Web Applications using ReactJS for the client side, Node.js / Express for the server side, MongoDB, and PostgreSQL for the database.
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
     </div>
