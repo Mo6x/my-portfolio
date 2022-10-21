@@ -16,21 +16,21 @@ const data = [
     image: IMG1,
     title: 'Admin-Dashboard',
     github: 'https://github.com/Mo6x',
-    demo: 'https://dribbble.com/shots/19314598-Orion-UI-kit-for-Figma',
+    demo: 'admindanshboard.netlify.app ',
 },
 {
   id: 2,
     image: IMG2,
     title: 'Airtime2Cash',
     github: 'https://github.com/Mo6x',
-    demo: 'https://dribbble.com/shots/19314598-Orion-UI-kit-for-Figma',
+    demo: 'https://airtimetocashpodg.netlify.app',
   },
   {
   id: 3,
     image: IMG3,
-    title: 'Book-librery',
+    title: 'Kordin8',
     github: 'https://github.com/Mo6x',
-    demo: 'https://dribbble.com/shots/19314598-Orion-UI-kit-for-Figma',
+    demo: 'http://kordin8.herokuapp.com',
 },
   {
   id: 4,
@@ -42,16 +42,16 @@ const data = [
   {
   id: 5,
     image: IMG5,
-    title: 'Templates',
+    title: 'Bankist',
     github: 'https://github.com/Mo6x',
-    demo: 'https://dribbble.com/shots/19314598-Orion-UI-kit-for-Figma',
+    demo: ' https://bankistapps.netlify.app',
 },
   {
   id: 6,
     image: IMG6,
-    title: 'Templates',
+    title: 'Pig-game',
     github: 'https://github.com/Mo6x',
-    demo: 'https://dribbble.com/shots/19314598-Orion-UI-kit-for-Figma',
+    demo: ' gamenor.netlify.app',
 },
 ]
 
